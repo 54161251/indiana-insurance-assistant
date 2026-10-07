@@ -1,0 +1,10 @@
+{
+  "sha256": "08bcd3a9f4a42f0c2059fd43f98a91112b9abbdec5e07faeacf80107dc9989d9",
+  "parts": [
+    "chroma-snapshot.zip.part01",
+    "chroma-snapshot.zip.part02"
+  ],
+  "collection": "idoi_insurance",
+  "insurance_records": 2368,
+  "other_records": 361
+}

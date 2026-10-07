@@ -1,0 +1,10 @@
+[
+  {
+    "file": "hw-1.py",
+    "change": "Replaced hard-coded credential with environment-variable lookup."
+  },
+  {
+    "file": "lab2_first_api_query.py",
+    "change": "Replaced hard-coded credential with environment-variable lookup."
+  }
+]
